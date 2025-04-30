@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+html {
+  overflow: hidden;
+  font-family: poppins, sans-serif;
+}
